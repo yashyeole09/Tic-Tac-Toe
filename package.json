@@ -1,0 +1,30 @@
+{
+    "name": "tic-tac-toe",
+    "version": "1.0.0",
+    "description": "A Tic-Tac-Toe game which has amazing features",
+    "main": "index.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-hot": "^0.0.1",
+        "react-hot-toast": "^2.5.1",
+        "react-scripts": "^5.0.1",
+        "toast": "^0.5.4"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
